@@ -1,17 +1,16 @@
 module.exports = nativeDescription: "العربية", englishDescription: "Arabic", translation:
   common:
-    loading: "Loading..."
-#    saving: "Saving..."
-#    sending: "Sending..."
-#    cancel: "Cancel"
-#    save: "Save"
-#    delay_1_sec: "1 second"
-#    delay_3_sec: "3 seconds"
-#    delay_5_sec: "5 seconds"
-#    manual: "Manual"
-#    fork: "Fork"
-#    play: "Play"
-
+  	loading: "جاري التحميل..."
+    saving: "جاري الحفض..."
+    sending: "جاري الإرسال..."
+    cancel: "الغاء"
+    save: "حفض"
+    delay_1_sec: "ثانية"
+    delay_3_sec: "3 ثواني"
+    delay_5_sec: "5 ثواني"
+    manual: "دليل"
+    fork: "تفرع المشروع"
+    play: "العب"
 #  modal:
 #    close: "Close"
 #    okay: "Okay"
