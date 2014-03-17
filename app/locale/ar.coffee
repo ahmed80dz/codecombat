@@ -1,6 +1,6 @@
 module.exports = nativeDescription: "العربية", englishDescription: "Arabic", translation:
   common:
-  	loading: "جاري التحميل..."
+    loading: "جاري التحميل..."
     saving: "جاري الحفض..."
     sending: "جاري الإرسال..."
     cancel: "الغاء"
