@@ -9,7 +9,7 @@ module.exports = nativeDescription: "العربية", englishDescription: "Arabi
     delay_3_sec: "3 ثواني"
     delay_5_sec: "5 ثواني"
     manual: "دليل"
-    fork: "تفرع المشروع"
+    fork: "تفريع المشروع"
     play: "العب"
 #  modal:
 #    close: "Close"
